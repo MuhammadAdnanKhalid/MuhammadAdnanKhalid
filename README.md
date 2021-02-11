@@ -1,8 +1,7 @@
 ### Hi there, I'm Adnan👋
 ### Here is What I'm working on💻
 
-<!--
-**MuhammadAdnanKhalid/MuhammadAdnanKhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammad_adnank@outlook.com
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...I am half Finnish
--->
+
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadadnankhalid&show_icons=true&theme=radical)
