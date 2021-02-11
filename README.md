@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...I am half Finnish
 
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadadnankhalid&show_icons=true&theme=onedark)
+![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadadnankhalid&show_icons=true&theme=synthwave)
